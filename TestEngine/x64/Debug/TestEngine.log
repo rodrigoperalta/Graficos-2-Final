@@ -1,0 +1,9 @@
+﻿  Asteroid.cpp
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_entrega_2\testengine\asteroid.h(3): fatal error C1083: Cannot open include file: 'Input.h': No such file or directory
+  Game.cpp
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_entrega_2\testengine\game.h(3): fatal error C1083: Cannot open include file: 'GameBase.h': No such file or directory
+  Main.cpp
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_entrega_2\testengine\game.h(3): fatal error C1083: Cannot open include file: 'GameBase.h': No such file or directory
+  Player.cpp
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_entrega_2\testengine\player.h(3): fatal error C1083: Cannot open include file: 'Input.h': No such file or directory
+  Generating Code...

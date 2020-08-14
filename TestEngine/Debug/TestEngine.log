@@ -1,0 +1,217 @@
+﻿  Game.cpp
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(44): warning C4251: 'Renderer::eyePosition': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(45): warning C4251: 'Renderer::cameraPosition': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(46): warning C4251: 'Renderer::headUpPosition': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(47): warning C4251: 'Renderer::modelMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(48): warning C4251: 'Renderer::viewMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(49): warning C4251: 'Renderer::projectionMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(50): warning C4251: 'Renderer::MVP': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(51): warning C4251: 'Renderer::auxPerspectiveMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(52): warning C4251: 'Renderer::auxOrthoMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\renderer.h(53): warning C4251: 'Renderer::planes': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'Renderer'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(20): warning C4251: 'Entity::vectorPosition': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(21): warning C4251: 'Entity::vectorRotation': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(22): warning C4251: 'Entity::vectorScale': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(24): warning C4251: 'Entity::model': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(26): warning C4251: 'Entity::translationMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(27): warning C4251: 'Entity::rotateX': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(28): warning C4251: 'Entity::rotateY': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(29): warning C4251: 'Entity::rotateZ': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(30): warning C4251: 'Entity::scallingMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\entity.h(33): warning C4251: 'Entity::col': struct 'glm::vec<2,float,0>' needs to have dll-interface to be used by clients of class 'Entity'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(119): note: see declaration of 'glm::vec<2,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\textureimporter.h(31): warning C4091: 'static ': ignored on left of 'TextureImporter' when no variable is declared
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\mesh.h(34): warning C4251: 'Mesh::vertices': class 'std::vector<Vertex,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Mesh'
+          with
+          [
+              _Ty=Vertex
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\mesh.h(34): note: see declaration of 'std::vector<Vertex,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Vertex
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\mesh.h(35): warning C4251: 'Mesh::indices': class 'std::vector<unsigned int,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Mesh'
+          with
+          [
+              _Ty=unsigned int
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\mesh.h(35): note: see declaration of 'std::vector<unsigned int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=unsigned int
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\mesh.h(36): warning C4251: 'Mesh::textures': class 'std::vector<Texture,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Mesh'
+          with
+          [
+              _Ty=Texture
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\mesh.h(36): note: see declaration of 'std::vector<Texture,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Texture
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\component.h(8): warning C4251: 'Component::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Component'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(21): warning C4251: 'Transform::vectorPosition': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(22): warning C4251: 'Transform::vectorRotation': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(23): warning C4251: 'Transform::vectorScale': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(25): warning C4251: 'Transform::model': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(27): warning C4251: 'Transform::translationMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(28): warning C4251: 'Transform::rotateX': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(29): warning C4251: 'Transform::rotateY': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(30): warning C4251: 'Transform::rotateZ': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\transform.h(31): warning C4251: 'Transform::scallingMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'Transform'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\scenenode.h(10): warning C4251: 'SceneNode::nodes': class 'std::vector<SceneNode *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'SceneNode'
+          with
+          [
+              _Ty=SceneNode *
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\scenenode.h(10): note: see declaration of 'std::vector<SceneNode *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=SceneNode *
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\scenenode.h(11): warning C4251: 'SceneNode::components': class 'std::vector<Component *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'SceneNode'
+          with
+          [
+              _Ty=Component *
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\scenenode.h(11): note: see declaration of 'std::vector<Component *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Component *
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\scenenode.h(12): warning C4251: 'SceneNode::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'SceneNode'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\scenenode.h(16): warning C4251: 'SceneNode::bb': struct 'BoundingBox' needs to have dll-interface to be used by clients of class 'SceneNode'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\boundigbox.h(6): note: see declaration of 'BoundingBox'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\triangle.h(6): warning C4275: non dll-interface class 'Shape' used as base for dll-interface class 'Triangle'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\shape.h(6): note: see declaration of 'Shape'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\triangle.h(5): note: see declaration of 'Triangle'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\rectangle.h(6): warning C4275: non dll-interface class 'Shape' used as base for dll-interface class 'Rectangle'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\shape.h(6): note: see declaration of 'Shape'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\rectangle.h(5): note: see declaration of 'Rectangle'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\circle.h(7): warning C4275: non dll-interface class 'Shape' used as base for dll-interface class 'Circle'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\shape.h(6): note: see declaration of 'Shape'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\circle.h(6): note: see declaration of 'Circle'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\tilemap.h(43): warning C4251: 'Tilemap::level': class 'std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>' needs to have dll-interface to be used by clients of class 'Tilemap'
+          with
+          [
+              _Ty=int
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\tilemap.h(43): note: see declaration of 'std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>'
+          with
+          [
+              _Ty=int
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\tilemap.h(44): warning C4251: 'Tilemap::tiles': class 'std::vector<std::vector<Tile,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>' needs to have dll-interface to be used by clients of class 'Tilemap'
+          with
+          [
+              _Ty=Tile
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\tilemap.h(44): note: see declaration of 'std::vector<std::vector<Tile,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>'
+          with
+          [
+              _Ty=Tile
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\tilemap.h(67): warning C4251: 'Tilemap::actualPosition': struct 'glm::vec<2,float,0>' needs to have dll-interface to be used by clients of class 'Tilemap'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(119): note: see declaration of 'glm::vec<2,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\tilemap.h(68): warning C4251: 'Tilemap::realPosition': struct 'glm::vec<2,float,0>' needs to have dll-interface to be used by clients of class 'Tilemap'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(119): note: see declaration of 'glm::vec<2,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\tilemap.h(70): warning C4251: 'Tilemap::accumTrans': struct 'glm::vec<2,float,0>' needs to have dll-interface to be used by clients of class 'Tilemap'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(119): note: see declaration of 'glm::vec<2,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\sprite.h(10): warning C4275: non dll-interface class 'Shape' used as base for dll-interface class 'Sprite'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\shape.h(6): note: see declaration of 'Shape'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\sprite.h(9): note: see declaration of 'Sprite'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\sprite.h(22): warning C4251: 'Sprite::originalPosition': struct 'glm::vec<2,float,0>' needs to have dll-interface to be used by clients of class 'Sprite'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(119): note: see declaration of 'glm::vec<2,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\input.h(30): warning C4251: 'Input::lastMousePosition': struct 'glm::vec<2,float,0>' needs to have dll-interface to be used by clients of class 'Input'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(119): note: see declaration of 'glm::vec<2,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\input.h(31): warning C4251: 'Input::currentMousePosition': struct 'glm::vec<2,float,0>' needs to have dll-interface to be used by clients of class 'Input'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(119): note: see declaration of 'glm::vec<2,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\collisionmanager.h(15): warning C4251: 'CollisionManager::listsOfEntities': class 'std::vector<std::list<Entity *,std::allocator<_Ty>>,std::allocator<std::list<_Ty,std::allocator<_Ty>>>>' needs to have dll-interface to be used by clients of class 'CollisionManager'
+          with
+          [
+              _Ty=Entity *
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\collisionmanager.h(15): note: see declaration of 'std::vector<std::list<Entity *,std::allocator<_Ty>>,std::allocator<std::list<_Ty,std::allocator<_Ty>>>>'
+          with
+          [
+              _Ty=Entity *
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\model.h(23): warning C4251: 'Model::textures_loaded': class 'std::vector<Texture,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Model'
+          with
+          [
+              _Ty=Texture
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\mesh.h(36): note: see declaration of 'std::vector<Texture,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Texture
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\model.h(24): warning C4251: 'Model::meshes': class 'std::vector<Mesh,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Model'
+          with
+          [
+              _Ty=Mesh
+          ]
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\model.h(24): note: see declaration of 'std::vector<Mesh,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Mesh
+          ]
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\model.h(25): warning C4251: 'Model::directory': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Model'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\camerac.h(26): warning C4251: 'CameraC::globalPosition': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'CameraC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\camerac.h(27): warning C4251: 'CameraC::viewDirection': struct 'glm::vec<3,float,0>' needs to have dll-interface to be used by clients of class 'CameraC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(229): note: see declaration of 'glm::vec<3,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\camerac.h(28): warning C4251: 'CameraC::right': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\camerac.h(29): warning C4251: 'CameraC::up': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\camerac.h(30): warning C4251: 'CameraC::fwd': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\camerac.h(31): warning C4251: 'CameraC::pos': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\camerac.h(32): warning C4251: 'CameraC::vMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'CameraC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\cameracnofc.h(20): warning C4251: 'CameraCNoFC::right': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraCNoFC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\cameracnofc.h(21): warning C4251: 'CameraCNoFC::up': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraCNoFC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\cameracnofc.h(22): warning C4251: 'CameraCNoFC::fwd': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraCNoFC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\cameracnofc.h(23): warning C4251: 'CameraCNoFC::pos': struct 'glm::vec<4,float,0>' needs to have dll-interface to be used by clients of class 'CameraCNoFC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_vec.hpp(335): note: see declaration of 'glm::vec<4,float,0>'
+e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\enginedll\cameracnofc.h(24): warning C4251: 'CameraCNoFC::vMatrix': struct 'glm::mat<4,4,float,0>' needs to have dll-interface to be used by clients of class 'CameraCNoFC'
+  e:\rodrigo\ic\3-1\graficos 2\peralta_rodrigo_engine_final_agosto vfinal\external\glm-0.9.9.0\glm\detail\type_mat.hpp(303): note: see declaration of 'glm::mat<4,4,float,0>'
+  TestEngine.vcxproj -> E:\Rodrigo\IC\3-1\Graficos 2\Peralta_Rodrigo_Engine_Final_Agosto vfinal\Debug\TestEngine.exe
